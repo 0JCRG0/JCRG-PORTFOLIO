@@ -152,7 +152,7 @@ const About = () => {
             <p>
               This knack for detail, stemming from this unique combination of skills, has allowed me
               to work with a <a href="https://www.tcs.com/">multinational corporation</a> as well as
-              craft custom solutions for <a href="https://www.rolehounds.com/">a start-up</a>,{' '}
+              craft custom solutions for a <a href="https://www.rolehounds.com/">start-up</a>,{' '}
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
