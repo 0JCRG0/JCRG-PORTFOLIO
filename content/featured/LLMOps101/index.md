@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'LLMOps 101'
-cover: './course-card.png'
+cover: './llmops.png'
 external: 'https://github.com/0JCRG0/LLMOps-101'
 cta: 'https://github.com/0JCRG0/LLMOps-101'
 tech:

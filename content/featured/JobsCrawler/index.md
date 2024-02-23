@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'JobsCrawler'
-cover: './halcyon.png'
+cover: './JobsCrawler.png'
 github: 'https://github.com/0JCRG0/JobsCrawler'
 external: 'https://github.com/0JCRG0/JobsCrawler'
 tech:

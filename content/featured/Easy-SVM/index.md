@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Easy SVM'
-cover: './demo.png'
+cover: './svm.png'
 github: 'https://github.com/0JCRG0/Easy-SVM'
 external: 'https://github.com/0JCRG0/Easy-SVM'
 tech:
