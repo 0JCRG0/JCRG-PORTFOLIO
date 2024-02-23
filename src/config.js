@@ -1,22 +1,14 @@
 module.exports = {
-  email: 'juancarlosrg1999@gmail.com',
+  email: 'juan.reyesga@udlap.mx',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://github.com/0JCRG0',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/jcrg3312',
     },
   ],
 
