@@ -11,10 +11,6 @@ module.exports = {
       url: 'https://www.instagram.com/bchiang7',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/bchiang7',
     },
@@ -34,7 +30,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
     {

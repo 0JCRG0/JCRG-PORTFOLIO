@@ -7,7 +7,6 @@ module.exports = {
       'Juan Reyes is a software engineer with experience in Machine Learning, Generative AI, Web Development and Data Analysis',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
