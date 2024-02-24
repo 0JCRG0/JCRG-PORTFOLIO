@@ -1,8 +1,8 @@
 ---
 date: '2024-02-01'
 title: 'TLDR (coming soon!)'
-github: 'https://github.com/bchiang7/bchiang7.github.io'
-external: 'https://bchiang7.github.io/v3/'
+github: 'https://github.com/0JCRG0/TLDR'
+external: 'https://github.com/0JCRG0/TLDR'
 tech:
   - JS
   - HTML/CSS
