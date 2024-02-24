@@ -5,7 +5,7 @@ module.exports = {
     title: 'JCRG',
     description:
       'Juan Reyes is a software engineer with experience in Machine Learning, Generative AI, Web Development and Data Analysis',
-    siteUrl: '', // No trailing slash allowed!
+    siteUrl: 'https://www.rolehounds.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [

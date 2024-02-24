@@ -10,6 +10,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/jcrg3312',
     },
+    {
+      name: 'Lichess',
+      url: 'https://lichess.org/@/JCRG99',
+    },
   ],
 
   navLinks: [
