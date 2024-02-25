@@ -16,7 +16,7 @@
 
 </p>
 
-![demo](https://raw.githubusercontent.com/0JCRG0/JCRG-PORTFOLIO/static/og.png)
+![demo](https://raw.githubusercontent.com/0JCRG0/JCRG-PORTFOLIO/main/static/og.png)
 
 ## 🚨 Forking this repo (please read!)
 
