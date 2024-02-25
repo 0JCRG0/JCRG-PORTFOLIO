@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">
 
-[jcrg.dev](https://app.netlify.com/sites/jcrg-portfolio/domain-management)
+[jcrg.dev](https://jcrg-portfolio.netlify.app/)
 
 </h1>
 <p align="center">
