@@ -2,7 +2,9 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/0JCRG0/JCRG-PORTFOLIO/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  jcrg.dev
+
+[jcrg.dev](https://app.netlify.com/sites/jcrg-portfolio/domain-management)
+
 </h1>
 <p align="center">
   My personal website built on top of <a href="https://github.com/bchiang7/v4" target="_blank">bchiang7's  v4</a>, with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
@@ -14,7 +16,7 @@
 
 </p>
 
-![demo](https://raw.githubusercontent.com/0JCRG0/JCRG-PORTFOLIO/src/static/og.png)
+![demo](https://raw.githubusercontent.com/0JCRG0/JCRG-PORTFOLIO/static/og.png)
 
 ## 🚨 Forking this repo (please read!)
 
