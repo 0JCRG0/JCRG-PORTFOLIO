@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/0JCRG0/JCRG-PORTFOLIO/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   JCRG.dev
@@ -7,6 +7,8 @@
 <p align="center">
   My personal website built on top of <a href="https://github.com/bchiang7/v4" target="_blank">bchiang7's  v4</a>, with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/856933a4-e929-4ecf-9ce3-6bab4304037c/deploy-status)](https://app.netlify.com/sites/celebrated-gumdrop-acb1c5/deploys)
 
 ![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
 
